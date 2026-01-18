@@ -1,5 +1,10 @@
-## Hi there 👋
+## YANG JAE HO
 
+![didwogh132's GitHub stats](https://github-readme-stats.vercel.app/api?username=didwogh132&show_icons=true&theme=dark)  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=201501583)](https://solved.ac/201501583)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didwogh132&layout=compact&theme=dark)
 <!--
 **didwogh132/didwogh132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
